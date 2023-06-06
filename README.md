@@ -1,27 +1,109 @@
-# Hi, I'm Daniel Prates! 👋
+# Hi 👋 My name is Daniel Prates
 
-## Languages
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+## Backend developer
 
-## Libs & Frameworks
-![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Nest](https://img.shields.io/badge/nestjs%20-%23bd082c.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
-![Adonis](https://img.shields.io/badge/adonis%20-%23E34F26.svg?&style=for-the-badge&logo=adonisjs&logoColor=white&color=5a45ff)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white&color=087ea4)
-![Vue](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=42b883)
+As a software engineer, I have a passion for developing high-quality, scalable, and secure solutions. I bring over 5 years of web development experience and a Bachelor's degree in Information Systems to the table.
 
-## Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+My proficiency in technologies such as NodeJS, TypeScript, VueJS, AWS, and Docker allows me to tackle complex challenges and deliver innovative solutions.
 
+Problem-solving is my greatest strength. I use TDD, clean architecture, and DDD to ensure that my work meets the highest standards. I am also exploring the fields of cyber security and machine learning to further enhance my skills and deliver the best possible results.
 
-## My GitHub Stats
+- 🌍  I'm based in São Paulo, Brazil
+- 🧠  I'm learning Software Architecture
 
-![This week GitHub profile views](https://komarev.com/ghpvc/?username=danprates&style=for-the-badge&color=7733ff&label=This+week+GitHub+profile+views)
+<a href="https://www.github.com/danprates" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/github/followers/danprates?logo=github&style=for-the-badge&color=316cda&labelColor=1c1917" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danprates&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff)
+### Skills
 
-[See My Latest Activities Here](https://gitstalk.netlify.app/danprates/)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+      width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+      width="36" height="36" alt="Git" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      width="36" height="36" alt="React" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
+      width="36" height="36" alt="Vue" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+      width="36" height="36" alt="NextJs" /></a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg"
+      width="36" height="36" alt="Nuxtjs" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+      width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
+      width="36" height="36" alt="NestJS" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+      width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+      width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+      width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
+### Socials
+
+<p align="left">
+  <a href="https://www.github.com/danprates" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+      width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/danielprates" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+      width="32" height="32" />
+  </a>
+</p>
+
+### Badges
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/danprates">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=danprates&show_icons=true&hide=&count_private=true&title_color=316cda&text_color=ffffff&icon_color=316cda&bg_color=1c1917&hide_border=true&show_icons=true"
+    alt="danprates's GitHub stats" />
+</a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center">
+  <a href="https://github.com/danprates/lite-jsx" align="left">
+    <img align="left" width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=danprates&repo=lite-jsx&title_color=316cda&text_color=ffffff&icon_color=316cda&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/danprates/boilerplate-api" align="right">
+    <img align="right" width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=danprates&repo=boilerplate-api&title_color=316cda&text_color=ffffff&icon_color=316cda&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div width="100%" align="center">
+  <a href="https://github.com/danprates/dotfiles" align="left">
+    <img align="left" width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=danprates&repo=dotfiles&title_color=316cda&text_color=ffffff&icon_color=316cda&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/danprates/algorithms" align="right">
+    <img align="right" width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=danprates&repo=algorithms&title_color=316cda&text_color=ffffff&icon_color=316cda&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>

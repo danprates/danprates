@@ -100,7 +100,7 @@ Problem-solving is my greatest strength. I use TDD, clean architecture, and DDD 
 <div width="100%" align="center">
   <a href="https://github.com/danprates/dotfiles" align="left">
     <img align="left" width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=danprates&repo=dotfiles&title_color=316cda&text_color=ffffff&icon_color=316cda&bg_color=1c1917&hide_border=true&locale=en" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=danprates&repo=chatbot&title_color=316cda&text_color=ffffff&icon_color=316cda&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/danprates/algorithms" align="right">
     <img align="right" width="45%"

@@ -9,7 +9,7 @@ My proficiency in technologies such as NodeJS, TypeScript, VueJS, AWS, and Docke
 Problem-solving is my greatest strength. I use TDD, clean architecture, and DDD to ensure that my work meets the highest standards. I am also exploring the fields of cyber security and machine learning to further enhance my skills and deliver the best possible results.
 
 - 🌍  I'm based in São Paulo, Brazil
-- 🧠  I'm learning Software Architecture
+- 🧠  I'm learning Golang, Software Architecture, Domain Driven Design and Machine Learning
 
 <a href="https://www.github.com/danprates" target="_blank" rel="noreferrer">
   <img

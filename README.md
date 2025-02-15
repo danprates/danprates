@@ -1,15 +1,14 @@
 # Hi 👋 My name is Daniel Prates
 
-## Backend developer
+### About me
 
-As a software engineer, I have a passion for developing high-quality, scalable, and secure solutions. I bring over 5 years of web development experience and a Bachelor's degree in Information Systems to the table.
+I'm a software developer, **Node.js expert**, focused on distributed architecture and scalability. I have over **7 years of experience** in the field, with a Bachelor's degree in Information Systems and an MBA in Software Architecture.
 
-My proficiency in technologies such as NodeJS, TypeScript, VueJS, AWS, and Docker allows me to tackle complex challenges and deliver innovative solutions.
+I use TDD, Clean Architecture, and DDD to ensure my work is high-quality and standardized. Plus, I'm exploring **cybersecurity** and **machine learning** to level up my skills and deliver the best results possible.
 
-Problem-solving is my greatest strength. I use TDD, clean architecture, and DDD to ensure that my work meets the highest standards. I am also exploring the fields of cyber security and machine learning to further enhance my skills and deliver the best possible results.
+Technologies that I have more than **5 years of experience** with:
 
-- 🌍  I'm based in São Paulo, Brazil
-- 🧠  I'm learning Golang, Software Architecture, Domain Driven Design and Machine Learning
+- Typescript, Nodejs, React, Vue, Nestjs, AWS, GCP
 
 <a href="https://www.github.com/danprates" target="_blank" rel="noreferrer">
   <img
@@ -55,19 +54,6 @@ Problem-solving is my greatest strength. I use TDD, clean architecture, and DDD 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
       width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-
-### Socials
-
-<p align="left">
-  <a href="https://www.github.com/danprates" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-      width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/danielprates" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-      width="32" height="32" />
-  </a>
 </p>
 
 ### Badges
